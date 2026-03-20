@@ -153,7 +153,7 @@ collections:
     output: true
   projects:
     enable: false
-    # output: true
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
