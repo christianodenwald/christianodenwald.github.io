@@ -15,7 +15,7 @@ profile:
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -37,5 +37,3 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I'm a PhD student in Informatics at the University of Edinburgh, exploring the intersection of philosophy and computer science. My research focuses on **actual causation**—bridging formal computational models with philosophical inquiry to advance how we understand and reason about causal relationships.
 
 I'm fortunate to be supervised by [Julian Bradfield](https://www.julianbradfield.org/academic.html) and [Tadeg Quillien](https://quillienlab.github.io/).
-
-
