@@ -26,7 +26,8 @@ The project is structured as follows, focusing on the main components that you w
 ├── 📂 _pages/: contains the pages of the website
 |   └── 📄 404.md: 404 page (page not found)
 ├── 📂 _posts/: contains the blog posts
-├── 📂 _projects/: contains the projects
+├── 📂 _projects/: contains actual/published projects
+├── 📂 _project_templates/: optional starter templates for projects
 └── 📂 _sass/: contains the SASS files that define the style of the website
     ├── 📄 _base.scss: base style of the website
     ├── 📄 _cv.scss: style of the CV page
@@ -68,7 +69,9 @@ Note that `posts` is also a collection, but it is a default collection created a
 
 ## Creating new projects
 
-You can create new projects by adding new Markdown files in the [\_projects](_projects/) directory. The easiest way to do this is to copy an existing project and modify it.
+You can create new projects by adding new Markdown files in the [\_projects](_projects/) directory. We recommend keeping only actual project entries there and storing starter examples in [\_project_templates](_project_templates/).
+
+The easiest way to do this is to copy a template from [\_project_templates](_project_templates/) into [\_projects](_projects/) and rename it to a descriptive filename (for example `transformer_visualization.md`).
 
 ## Adding some news
 
@@ -170,7 +173,7 @@ exclude:
   - _news/announcement_*.md
   - _pages/blog.md
   - _posts/
-  - _projects/?_project.md
+  - _project_templates/
   - assets/jupyter/blog.ipynb
 ```
 
