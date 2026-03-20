@@ -47,15 +47,37 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Edinburgh",
+      "location": "Edinburgh, UK",
+      "url": "",
+      "area": "Informatics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2024-01-01",
+      "endDate": "",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": []
+    },
+    {
+      "institution": "Paris Lodron University of Salzburg",
+      "location": "Salzburg, Austria",
+      "url": "",
+      "area": "Philosophy",
+      "studyType": "Master of Arts",
+      "startDate": "1933-01-02",
+      "endDate": "2025-07-01",
+      "score": "10",
+      "courses": []
+    },
+    {
+      "institution": "Paris Lodron University of Salzburg",
+      "location": "Salzburg, Austria",
+      "url": "",
+      "area": "Data Science",
+      "studyType": "Master of Science",
+      "startDate": "1933-01-01",
+      "endDate": "2023-07-01",
+      "score": "10",
+      "courses": []
     }
   ],
   "awards": [
