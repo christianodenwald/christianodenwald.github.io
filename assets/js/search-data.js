@@ -54,7 +54,12 @@ ninja.data = [{
           title: 'actual causation',
           description: "collecting causal vignettes and writing code for theories of actual causation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_actual_causation/";
+              window.location.href = "/projects/actual_causation/";
+            },},{id: "projects-transformer-visualization",
+          title: 'transformer visualization',
+          description: "intuitive explanation of how transformers for LLMs work",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/transformer_visualization/";
             },},{
         id: 'social-github',
         title: 'GitHub',
