@@ -20,3 +20,7 @@ bundle exec jekyll s -l
 
 ##### for blogposts
 add a file to `_posts`
+
+#### helpful links
+
+[The original template](https://alshedivat.github.io/al-folio/)
