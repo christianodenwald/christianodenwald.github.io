@@ -52,7 +52,7 @@
       "location": "Edinburgh, UK",
       "role": "Tutor",
       "url": "https://opencourse.inf.ed.ac.uk/anlp",
-      "startDate": "Sem1 2025",
+      "startDate": "2025 Sem1",
       "endDate": "",
       "summary": "A 'quick start' masters-level course in NLP for students coming from various backgrounds.",
       "highlights": []
@@ -63,9 +63,31 @@
       "location": "Edinburgh, UK",
       "role": "Coursework and Exam Marker",
       "url": "https://opencourse.inf.ed.ac.uk/inf2-fds",
-      "startDate": "Sem2 2026",
+      "startDate": "2026 Sem2",
       "endDate": "",
       "summary": "Second-year undergraduate course teaching how to analyze large datasets.",
+      "highlights": []
+    },
+    {
+      "course": "Mathematics II",
+      "institution": "Salzburg University of Applied Sciences",
+      "location": "Salzburg, Austria",
+      "role": "Tutor",
+      "url": "",
+      "startDate": "2018, 2019 Sem2",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "course": "Mathematics I",
+      "institution": "Salzburg University of Applied Sciences",
+      "location": "Salzburg, Austria",
+      "role": "Tutor",
+      "url": "",
+      "startDate": "2017, 2018 Sem1",
+      "endDate": "",
+      "summary": "",
       "highlights": []
     }
   ],
