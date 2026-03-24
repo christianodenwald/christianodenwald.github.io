@@ -34,6 +34,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I'm a PhD student in Informatics at the University of Edinburgh, exploring the intersection of philosophy and computer science. I'm interested in philosophical concepts and like to make them precise by using formal methods, and applicable by using computational methods. My PhD focuses on **actual causation**—its formal properties as well as its application, for example to explainability and responsibility.
+I'm a PhD student in Informatics at the University of Edinburgh, working on **actual causation**—the question of what it means for one thing to be a cause of another. I use formal methods from logic and computer science to sharpen philosophical concepts, then apply them to real-world challenges in explainable AI and responsibility attribution.
 
 I'm fortunate to be supervised by [Julian Bradfield](https://www.julianbradfield.org/academic.html) and [Tadeg Quillien](https://quillienlab.github.io/).
