@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-03-26
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+A dataset and codebase for the evaluation of theories of actual causation is now available [here](https://github.com/christianodenwald/causality_checker)!
