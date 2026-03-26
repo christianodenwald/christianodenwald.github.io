@@ -39,16 +39,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-a-dataset-and-codebase-for-the-evaluation-of-theories-of-actual-causation-is-now-available-here",
+          title: 'A dataset and codebase for the evaluation of theories of actual causation is...',
           description: "",
           section: "News",},{id: "projects-actual-causation",
           title: 'actual causation',
