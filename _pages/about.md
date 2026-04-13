@@ -37,3 +37,5 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I'm a PhD student in Informatics at the University of Edinburgh, working on **actual causation**—the question of what it means for one thing to be a cause of another. I use formal methods from logic and computer science to sharpen philosophical concepts, then apply them to real-world challenges in explainable AI and responsibility attribution.
 
 I'm fortunate to be supervised by [Julian Bradfield](https://www.julianbradfield.org/academic.html) and [Tadeg Quillien](https://quillienlab.github.io/people).
+
+Use the [contact form](/contact/) to send me a message.
