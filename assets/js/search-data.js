@@ -46,7 +46,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-dataset-and-codebase-for-the-evaluation-of-theories-of-actual-causation-is-now-available-here-presented-at-clear-2026-and-forthcoming-in-pmlr-323-preprint",
+            },},{id: "news-a-dataset-and-codebase-for-the-evaluation-of-theories-of-actual-causation-is-now-available-here-presented-at-clear-2026-and-forthcoming-in-pmlr-323",
           title: 'A dataset and codebase for the evaluation of theories of actual causation is...',
           description: "",
           section: "News",},{id: "projects-actual-causation",
