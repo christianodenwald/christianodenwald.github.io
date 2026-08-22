@@ -46,8 +46,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-dataset-and-codebase-for-the-evaluation-of-theories-of-actual-causation-is-now-available-here-presented-at-clear-2026-and-forthcoming-in-pmlr-323",
+            },},{id: "news-a-dataset-and-codebase-for-the-evaluation-of-theories-of-actual-causation-is-now-available-here-presented-at-clear-2026-and-published-in-pmlr-323",
           title: 'A dataset and codebase for the evaluation of theories of actual causation is...',
+          description: "",
+          section: "News",},{id: "news-my-extended-abstract-for-crest-2026-on-24-july-2026-got-accepted-i-ll-be-talking-about-a-concurrency-theoretic-approach-to-actual-causation",
+          title: 'My extended abstract for CREST 2026 on 24 July 2026 got accepted. I’ll...',
+          description: "",
+          section: "News",},{id: "news-i-ll-be-giving-a-talk-about-law-preserving-counterfactuals-for-actual-causation-at-the-edinburgh-mini-cogsci-conference-on-5-6-june-2026",
+          title: 'I’ll be giving a talk about Law-Preserving Counterfactuals for Actual Causation at the...',
           description: "",
           section: "News",},{id: "projects-actual-causation",
           title: 'actual causation',
