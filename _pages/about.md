@@ -35,10 +35,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 I'm a PhD student in Informatics at the University of Edinburgh, working on **actual causation**—the question of what it means for one thing to be a cause of another. 
-
-The dominant approach uses structural causal models, where time is treated only implicitly, even though many causal judgments hinge on _when_ things happen. I bring in long-standing tools from computer science for modeling dynamic systems, concurrency models and temporal logics, to represent causal scenarios as they unfold. I'm currently extending this with epistemic logic to capture responsibility, since whether someone is to blame depends partially on what they knew at the time.
-
-I've also brought a data science mindset to the field. Instead of debating examples one by one, I've compiled them into a [benchmark](https://proceedings.mlr.press/v323/odenwald26a.html) for evaluating theories of causation systematically.
+Since causal judgments often depend on _when_ things happen, I use temporal logic to model causal scenarios as they unfold. 
+I've also compiled scenarios from the literature into a [benchmark](https://proceedings.mlr.press/v323/odenwald26a.html) for evaluating theories of causation.
 
 I'm fortunate to be supervised by [Julian Bradfield](https://www.julianbradfield.org/academic.html) and [Tadeg Quillien](https://quillienlab.github.io/people).
 
